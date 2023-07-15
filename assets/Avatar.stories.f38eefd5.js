@@ -1,0 +1,2 @@
+import{A as t}from"./index.2cfe4900.js";import"./index.c07fc7fb.js";import"./iframe.6110ec9a.js";import"./index.4dc2bb3f.js";import"./jsx-runtime.d1399599.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/lukke-dev.png",alt:"Lucas dos santos"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,e as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.f38eefd5.js.map
