@@ -1,3 +1,4 @@
+import React from "react";
 import { themes } from '@storybook/theming'
 
 export const parameters = {
