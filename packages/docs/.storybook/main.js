@@ -7,9 +7,12 @@ const config = {
     "@storybook/addon-interactions",
     "@storybook/addon-a11y"
   ],
-  framework: {
-    name: "@storybook/react-vite",
-    options: {},
+  framework: "@storybook/react",
+  core: {
+    "builder": "@storybook/builder-vite"
+  },
+  features: {
+    "storyStoreV7": true
   },
   docs: {
     autodocs: "tag",
